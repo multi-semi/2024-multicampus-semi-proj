@@ -5,6 +5,19 @@
 | <img src="https://avatars.githubusercontent.com/u/86116666?v=4" width=90px alt="박민균"/> | <img src="https://avatars.githubusercontent.com/JiiiYeonn" width=90px alt="이지연"/> |
 | :-----: | :-----: |
 | [박민균](https://github.com/parkmingyun99) | [이지연](https://github.com/JiiiYeonn) |
+
+| <img src="https://avatars.githubusercontent.com/u/86116666?v=4" width=90px alt="박민균"/> | <img src="https://avatars.githubusercontent.com/JiiiYeonn" width=90px alt="이지연"/> |
+| :-----: | :-----: |
+| [박민균](https://github.com/parkmingyun99) | [이지연](https://github.com/JiiiYeonn) |
+
+| <img src="https://avatars.githubusercontent.com/u/86116666?v=4" width=90px alt="박민균"/> | <img src="https://avatars.githubusercontent.com/JiiiYeonn" width=90px alt="이지연"/> |
+| :-----: | :-----: |
+| [박민균](https://github.com/parkmingyun99) | [이지연](https://github.com/JiiiYeonn) |
+
+
+
+
+
 ## 기술 스택
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)

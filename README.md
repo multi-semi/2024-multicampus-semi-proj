@@ -4,7 +4,7 @@
 ## 🖥️ 팀원 소개
 | <img src="https://avatars.githubusercontent.com/u/86116666?v=4" width=90px alt="박민균"/> | <img src="https://avatars.githubusercontent.com/JiiiYeonn" width=90px alt="이지연"/> | <img src="https://avatars.githubusercontent.com/u/86116666?v=4" width=90px alt="박민균"/> | <img src="https://avatars.githubusercontent.com/JiiiYeonn" width=90px alt="이지연"/> | <img src="https://avatars.githubusercontent.com/u/86116666?v=4" width=90px alt="박민균"/> | <img src="https://avatars.githubusercontent.com/JiiiYeonn" width=90px alt="이지연"/> |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| [강경묵](https://github.com/parkmingyun99) | [안혜선](https://github.com/JiiiYeonn) | [박민균](https://github.com/parkmingyun99) | [박재민](https://github.com/JiiiYeonn) | [이은수](https://github.com/parkmingyun99) | [신현철](https://github.com/JiiiYeonn) |
+| [강경묵](https://github.com/KyoungMookKang) | [안혜선](https://github.com/harin0224) | [박민균](https://github.com/parkmingyun99) | [박재민](https://github.com/jmp0422) | [이은수](https://github.com/supreme4rest) | [신현철](https://github.com/Shin-Hyeoncheol) |
 
 
 

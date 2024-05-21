@@ -2,19 +2,9 @@
 2024 세미 프로젝트 5조
 
 ## 🖥️ 팀원 소개
-
-| <img src="https://avatars.githubusercontent.com/u/86116666?v=4" width=90px alt="박민균"/> | <img src="https://avatars.githubusercontent.com/JiiiYeonn" width=90px alt="이지연"/> | <img src="https://via.placeholder.com/90" width=90px alt="김영희"/> | <img src="https://via.placeholder.com/90" width=90px alt="이철수"/> |
-
-| :-----: | :-----: | :-----: | :-----: |
-
-| [박민균](https://github.com/parkmingyun99) | [이지연](https://github.com/JiiiYeonn) | [김영희](https://github.com/younghee) | [이철수](https://github.com/cheolsu) |
-
-| <img src="https://via.placeholder.com/90" width=90px alt="최지민"/> | <img src="https://via.placeholder.com/90" width=90px alt="홍길동"/> |
-
+| <img src="https://avatars.githubusercontent.com/u/86116666?v=4" width=90px alt="박민균"/> | <img src="https://avatars.githubusercontent.com/JiiiYeonn" width=90px alt="이지연"/> |
 | :-----: | :-----: |
-
-| [최지민](https://github.com/jimin) | [홍길동](https://github.com/gildong) |
-
+| [박민균](https://github.com/parkmingyun99) | [이지연](https://github.com/JiiiYeonn) |
 ## 기술 스택
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)

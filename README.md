@@ -2,8 +2,8 @@
 2024 세미 프로젝트 5조
 
 ## 🖥️ 팀원 소개
-| <img src="https://avatars.githubusercontent.com/u/86116666?v=4" width=90px alt="박민균"/> | <img src="https://avatars.githubusercontent.com/JiiiYeonn" width=90px alt="이지연"/> | | <img src="https://avatars.githubusercontent.com/u/86116666?v=4" width=90px alt="박민균"/> | <img src="https://avatars.githubusercontent.com/JiiiYeonn" width=90px alt="이지연"/> || <img src="https://avatars.githubusercontent.com/u/86116666?v=4" width=90px alt="박민균"/> | <img src="https://avatars.githubusercontent.com/JiiiYeonn" width=90px alt="이지연"/> |
-| :-----: | :-----: | :-----: | :-----: || :-----: | :-----: |
+| <img src="https://avatars.githubusercontent.com/u/86116666?v=4" width=90px alt="박민균"/> | <img src="https://avatars.githubusercontent.com/JiiiYeonn" width=90px alt="이지연"/> | <img src="https://avatars.githubusercontent.com/u/86116666?v=4" width=90px alt="박민균"/> | <img src="https://avatars.githubusercontent.com/JiiiYeonn" width=90px alt="이지연"/> | <img src="https://avatars.githubusercontent.com/u/86116666?v=4" width=90px alt="박민균"/> | <img src="https://avatars.githubusercontent.com/JiiiYeonn" width=90px alt="이지연"/> |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | [박민균](https://github.com/parkmingyun99) | [이지연](https://github.com/JiiiYeonn) | [박민균](https://github.com/parkmingyun99) | [이지연](https://github.com/JiiiYeonn) | [박민균](https://github.com/parkmingyun99) | [이지연](https://github.com/JiiiYeonn) |
 
 | <img src="https://avatars.githubusercontent.com/u/86116666?v=4" width=90px alt="박민균"/> | <img src="https://avatars.githubusercontent.com/JiiiYeonn" width=90px alt="이지연"/> |

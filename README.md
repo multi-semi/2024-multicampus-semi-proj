@@ -2,7 +2,7 @@
 2024 세미 프로젝트 5조
 
 ## 🖥️ 팀원 소개
-| <img src="https://avatars.githubusercontent.com/u/86116666?v=4" width=90px alt="박민균"/> | <img src="https://avatars.githubusercontent.com/JiiiYeonn" width=90px alt="이지연"/> | <img src="https://avatars.githubusercontent.com/u/86116666?v=4" width=90px alt="박민균"/> | <img src="https://avatars.githubusercontent.com/JiiiYeonn" width=90px alt="이지연"/> | <img src="https://avatars.githubusercontent.com/u/86116666?v=4" width=90px alt="박민균"/> | <img src="https://avatars.githubusercontent.com/JiiiYeonn" width=90px alt="이지연"/> |
+| <img src="https://avatars.githubusercontent.com/u/86116666?v=4" width=90px alt="강경묵"/> | <img src="https://avatars.githubusercontent.com/harin0224" width=90px alt="안혜선"/> | <img src="https://avatars.githubusercontent.com/u/86116666?v=4" width=90px alt="박민균"/> | <img src="https://avatars.githubusercontent.com/JiiiYeonn" width=90px alt="박재민"/> | <img src="https://avatars.githubusercontent.com/u/86116666?v=4" width=90px alt="이은수"/> | <img src="https://avatars.githubusercontent.com/JiiiYeonn" width=90px alt="신현철"/> |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | [강경묵](https://github.com/KyoungMookKang) | [안혜선](https://github.com/harin0224) | [박민균](https://github.com/parkmingyun99) | [박재민](https://github.com/jmp0422) | [이은수](https://github.com/supreme4rest) | [신현철](https://github.com/Shin-Hyeoncheol) |
 

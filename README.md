@@ -1,29 +1,19 @@
 # 2024-multicampus-semi-proj
 2024 세미 프로젝트 5조
 
-## 팀원 소개
+## 🖥️ 팀원 소개
 
-- 김영희 ([@younghee](https://github.com/younghee))
-    - 역할: 프론트엔드 개발
-    - 이메일: younghee@example.com
+| <img src="https://avatars.githubusercontent.com/u/86116666?v=4" width=90px alt="박민균"/> | <img src="https://avatars.githubusercontent.com/JiiiYeonn" width=90px alt="이지연"/> | <img src="https://via.placeholder.com/90" width=90px alt="김영희"/> | <img src="https://via.placeholder.com/90" width=90px alt="이철수"/> |
 
-- 이철수 ([@cheolsu](https://github.com/cheolsu))
-    - 역할: 백엔드 개발
-    - 이메일: cheolsu@example.com
- 
-    - 
+| :-----: | :-----: | :-----: | :-----: |
 
-- 최지민 ([@jimin](https://github.com/jimin))
-    - 역할: 프론트엔드 개발
-    - 이메일: jimin@example.com
+| [박민균](https://github.com/parkmingyun99) | [이지연](https://github.com/JiiiYeonn) | [김영희](https://github.com/younghee) | [이철수](https://github.com/cheolsu) |
 
-- 홍길동 ([@gildong](https://github.com/gildong))
-    - 역할: 디자인, UI/UX
-    - 이메일: gildong@example.com
+| <img src="https://via.placeholder.com/90" width=90px alt="최지민"/> | <img src="https://via.placeholder.com/90" width=90px alt="홍길동"/> |
 
-- 강민지 ([@minji](https://github.com/minji))
-    - 역할: 데이터베이스 설계
-    - 이메일: minji@example.com
+| :-----: | :-----: |
+
+| [최지민](https://github.com/jimin) | [홍길동](https://github.com/gildong) |
 
 ## 기술 스택
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
